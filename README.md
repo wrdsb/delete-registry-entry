@@ -1,0 +1,2 @@
+delete-registry-entry
+=====================
